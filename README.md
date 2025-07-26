@@ -9,9 +9,9 @@ pinned: false
 license: openrail
 ---
 
-# PharmAssistAI: Your Advanced Pharma Research Assistant
+# PharmaBuddyAI: Your Advanced Pharma Research Assistant
 
-PharmAssistAI revolutionizes how pharmacy professionals and students approach learning and research related to FDA-approved drugs. By integrating modern information retrieval technologies with Large Language Models (LLMs), PharmAssistAI optimizes the research and learning workflow, making it less time-consuming and more efficient.
+PharmaBuddyAI revolutionizes how pharmacy professionals and students approach learning and research related to FDA-approved drugs. By integrating modern information retrieval technologies with Large Language Models (LLMs), PharmaBuddyAI optimizes the research and learning workflow, making it less time-consuming and more efficient.
 
 ## Core Features
 
@@ -53,7 +53,7 @@ Experience our app [live](https://huggingface.co/spaces/rajkstats/PharmAssistAI)
 
 ## LangSmith Performance Insights
 
-Explore the effectiveness and interaction tracking of LangSmith in PharmAssistAI through these detailed screenshots:
+Explore the effectiveness and interaction tracking of LangSmith in PharmaBuddyAI through these detailed screenshots:
 
 **Overview of Real-Time Evaluations** 
 
