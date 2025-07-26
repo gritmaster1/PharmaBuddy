@@ -1,5 +1,5 @@
 ---
-title: PharmAssistAI
+title: PharmaBuddyAI
 image: pharmassist.jpg
 emoji: 😻
 colorFrom: green
@@ -78,10 +78,3 @@ Explore the effectiveness and interaction tracking of LangSmith in PharmAssistAI
 ## Quick Start Guide
 
 Simply enter your question about any FDA-approved drug in our chat interface, and PharmAssistAI will provide you with detailed information, summaries, and follow-up questions to help expand your research and understanding.
-
-## Feedback and Contributions
-
-We value your input and invite you to help us enhance PharmAssistAI:
-
-- 🐛 [Report an issue](https://github.com/rajkstats/pharmassistai/issues) on GitHub for technical issues or feature suggestions.
-- 📧 Contact us at [raj.k.stats@gmail.com](mailto:raj.k.stats@gmail.com) for direct support or inquiries.
