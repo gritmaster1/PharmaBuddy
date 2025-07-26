@@ -1,13 +1,4 @@
----
-title: PharmaBuddyAI
-image: pharmassist.jpg
-emoji: 😻
-colorFrom: green
-colorTo: yellow
-sdk: docker
-pinned: false
-license: openrail
----
+
 
 # PharmaBuddyAI: Your Advanced Pharma Research Assistant
 
